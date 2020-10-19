@@ -140,6 +140,10 @@ body {
 /* media queries */
 
 @media (min-width: 1000px) {
+	.main__title {
+		font-size: 2.7em;
+	}
+
 	.main__header {
 		width: 40%;
 		margin: 3em auto;
